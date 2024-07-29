@@ -9,6 +9,6 @@ width="23" height="23" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9
   ---
 
 </div>
-<div>
-  [![Minsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimminsu-123&show_icons=true&theme=gruvbox_light&count_private=true&hide=stars,contribs)]
-</div>
+
+  ![Minsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimminsu-123&show_icons=true&theme=gruvbox_light&count_private=true&hide=stars,contribs)
+
